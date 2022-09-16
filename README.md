@@ -1,5 +1,7 @@
-
 # Egg Timer
+
+## Portrait
+<img src="images/Egg Timer.PNG" width=600px;>
 
 ## What you will learn
 
